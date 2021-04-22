@@ -1,4 +1,6 @@
 # Recommendation engine with a graph
+video: https://drive.google.com/file/d/1jhSWPg59MJTbnyivRCoCdrJs8FPg7RWH/view?usp=sharing
+
 The purpose is to build a recommendation engine based on graph by using the Adamic Adar measure.
 The more the measure is high, the closest are the two nodes.
 The measures between all movies are NOT pre-calculated, in order to determine the list of recommendation films, we are going to explore the neighborhood of the target film
